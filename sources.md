@@ -2,9 +2,9 @@
 
 ## Markdown List
 * php
-  * Composer-China: https://packagist.phpcomposer.com
+  * Composer-China: [https://packagist.phpcomposer.com](https://packagist.phpcomposer.com)
 * ruby
-  * Ruby-China: https://gems.ruby-china.org/
+  * Ruby-China: [https://gems.ruby-china.org/](https://gems.ruby-china.org/)
   
 ## Json Format
 ```json
